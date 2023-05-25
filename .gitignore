@@ -1,0 +1,10 @@
+/build
+/.gradle
+/repo
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+testProject/build
+testProject/.gradle
